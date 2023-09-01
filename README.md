@@ -6,7 +6,7 @@ In this Project folder you'll see different RNN's mini projects
 -Unsupervised Technique
 It is reading the filetext file ['https://storage.googleapis.com/download.tensorflow.org/data/shakespeare.txt] and generating its own lines 
 
-when you run the project
+Run the project
 '
-
+Python main.py
 '
