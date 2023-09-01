@@ -7,6 +7,6 @@ In this Project folder you'll see different RNN's mini projects
 It is reading the filetext file ['https://storage.googleapis.com/download.tensorflow.org/data/shakespeare.txt] and generating its own lines 
 
 Run the project
-'
+`
 Python main.py
-'
+`
